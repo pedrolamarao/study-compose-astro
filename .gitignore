@@ -1,0 +1,6 @@
+.astro/
+.gradle/
+.idea/
+.kotlin/
+build/
+kotlin-js-store/
