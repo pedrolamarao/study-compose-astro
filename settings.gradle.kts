@@ -27,7 +27,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "study-astro-compose"
+rootProject.name = "study"
 
 include(":astro")
 include(":compose")
