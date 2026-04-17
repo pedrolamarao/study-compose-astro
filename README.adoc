@@ -1,5 +1,5 @@
-= study-astro-compose
-:author: Pedro Lamarão <pedro.lamarao@purpura.dev.br>
+= study-compose-astro
+:author: Pedro Lamarão <pedro.unglue658@passinbox.com>
 :icons: font
 
-Estudo sobre integração entre Astro.build e Compose Multiplatform.
+Estudo sobre integração de um app Compose Multiplatform em um site Astro.build.
