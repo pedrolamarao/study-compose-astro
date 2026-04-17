@@ -2,4 +2,4 @@
 :author: Pedro Lamarão <pedro.unglue658@passinbox.com>
 :icons: font
 
-Estudo sobre integração de um app Compose Multiplatform em um site Astro.build.
+Estudo sobre integração de apps Compose Multiplatform em sites Astro.build.
